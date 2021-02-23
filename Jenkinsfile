@@ -3,9 +3,9 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Build'
+                echo 'Build Test'
             }
         }
     } 
 }
-return this
+
